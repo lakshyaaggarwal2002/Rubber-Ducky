@@ -1,5 +1,5 @@
 1.	Raspberry Pi Pico: A microcontroller board used as the base platform for the rubber ducky device.
-2.	Programming Language: The rubber ducky script, Circuit Python.
+2.	Programming Language: The rubber ducky script, Python.
 3.	Rubber Ducky Firmware: The firmware used in the project is an open-source firmware developed by the community that emulates a USB keyboard and can execute scripts on a target system.
 4.	Operating System: The target Windows laptop is running a compatible operating system such as Windows 10.
 5.	Kali Linux: A Linux-based operating system used to control and monitor the rubber ducky device and the target Windows laptop.
